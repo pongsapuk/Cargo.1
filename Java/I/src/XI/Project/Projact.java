@@ -21,8 +21,6 @@ package XI.Project;
 import java.util.Scanner;
 
 /**
- *
- * @author wipcamp11
  */
 public class Projact {
 
